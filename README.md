@@ -7,7 +7,7 @@
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Frappe](https://img.shields.io/badge/FlutterFlow-%2300f?style=for-the-badge&logo=flutterflow&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvish0407&layout=compact&theme=default)](https://github.com/alvish0407/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvish0407&layout=compact&theme=default)](https://wakatime.com/@Alvish0407)
 
 ![Alvish's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvish0407&show_icons=true&theme=default)
 
@@ -15,7 +15,7 @@
 
 [//]: # (<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64b7a3a16a01543ae2dcc520?variant=dark" alt="roadmap.sh"/></a>)
 
-[![Alvish's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alvish0407&layout=compact&theme=default)](https://github.com/alvish0407/github-readme-stats)
+[![Alvish's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alvish0407&layout=compact&theme=default&langs_count=10)](https://wakatime.com/@Alvish0407)
 <!--
 **Alvish0407/alvish0407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
