@@ -7,11 +7,11 @@
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Frappe](https://img.shields.io/badge/FlutterFlow-%2300f?style=for-the-badge&logo=flutterflow&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alvish0407&theme=default&border_radius=4.6&mode=weekly)](https://git.io/streak-stats)
-  
-![Alvish's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvish0407&show_icons=true&theme=default)
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvish0407&layout=compact&theme=default)](https://github.com/alvish0407/github-readme-stats)
+
+![Alvish's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvish0407&show_icons=true&theme=default)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alvish0407&theme=default&border_radius=4.6&mode=weekly)](https://git.io/streak-stats)  
 
 [//]: # (<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64b7a3a16a01543ae2dcc520?variant=dark" alt="roadmap.sh"/></a>)
 
